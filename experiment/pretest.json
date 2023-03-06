@@ -1,39 +1,60 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": " _________ are the applications of flip flop",
+        "answers": {
+          "a": "Registers",
+          "b": "Counters",
+          "c": "Storage devices",
+          "d": "All of the above"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "The flip flops works with ________",
+        "answers": {
+          "a": "Binary inputs",
+          "b": "Clock signal",
+          "c": "Both a and b",
+          "d": "None of the above"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "How many types of triggers are there?",
+        "answers": {
+          "a": "One type",
+          "b": "Two types",
+          "c": "Three types",
+          "d": "Four types"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "The output of the sequential circuit depends upon _________",
+        "answers": {
+          "a": "Present input",
+          "b": "Past input",
+          "c": "Present input and present state",
+          "d": "None of the above"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "What is the standard form of S-R flip flop?",
+        "answers": {
+          "a": "Set Reset",
+          "b": "Simple-Reset",
+          "c": "Single-Reset",
+          "d": "None of the above"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
+    ]
+  }
