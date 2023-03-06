@@ -1,39 +1,72 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "A flip flop is an __________",
+        "answers": {
+          "a": "Edge sensitive device",
+          "b": "Synchronous device",
+          "c": "Both a and b",
+          "d": "None of the above"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "When the set is enabled in S-R flip flop then the output will be __________",
+        "answers": {
+          "a": "Set",
+          "b": "Reset",
+          "c": "No change",
+          "d": "Indeterminate"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "In which flip flop the present input will be the next output?",
+        "answers": {
+          "a": "S-R",
+          "b": "J-K",
+          "c": "D",
+          "d": "T"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "When both set and reset are enabled in S-R flip flop then the output will be __________",
+        "answers": {
+          "a": "Set",
+          "b": "Reset",
+          "c": "No change",
+          "d": "Indeterminate"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "When both set and reset are disabled in S-R flip flop then the output will be __________",
+        "answers": {
+          "a": "Set",
+          "b": "Reset",
+          "c": "No change",
+          "d": "Indeterminate"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "When reset is high and set is low in a NAND D-latch table then the output will be __________",
+        "answers": {
+          "a": "No change",
+          "b": "High",
+          "c": "Low",
+          "d": "Invalid"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
