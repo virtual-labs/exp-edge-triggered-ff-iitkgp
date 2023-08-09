@@ -7,7 +7,7 @@
 <b>Discipline | <b> Computer Science Engineering 
 :--|:--|
 <b> Lab | <b> **Digital Logic Circuit Design Virtual Lab**
-<b> Experiment|     <b> **Edge triggered Flipflops and Experiment 4**
+<b> Experiment|     <b> **Edge triggered FF and Experiment 4**
 
 ### Subject Matter Expert
 

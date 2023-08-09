@@ -6,6 +6,3 @@
 - The Art of Electronics - Paul Horowitz and Winfield Hill (1989). Cambridge University Press
 - Modern Dictionary of Electronics - Rudolf F. Graf (1999). Newnes
 
-## Web Sites:
-    
-- [NPTEL (e-learning courses from IITs and IISC)](http://nptel.iitm.ac.in/courses.php?disciplineId=106)
