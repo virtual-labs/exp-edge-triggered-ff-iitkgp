@@ -2,7 +2,7 @@
     "version": 2.0,
     "questions": [
       {
-        "question": "A flip flop is an __________",
+        "question": "A flip-flop is an __________",
         "answers": {
           "a": "Edge sensitive device",
           "b": "Synchronous device",
@@ -13,7 +13,7 @@
         "difficulty": "beginner"
       },
       {
-        "question": "When the set is enabled in S-R flip flop then the output will be __________",
+        "question": "When the set is enabled in S-R flip-flop then the output will be __________",
         "answers": {
           "a": "Set",
           "b": "Reset",
@@ -24,7 +24,7 @@
         "difficulty": "beginner"
       },
       {
-        "question": "In which flip flop the present input will be the next output?",
+        "question": "In which flip-flop the present input will be the next output?",
         "answers": {
           "a": "S-R",
           "b": "J-K",
@@ -35,7 +35,7 @@
         "difficulty": "beginner"
       },
       {
-        "question": "When both set and reset are enabled in S-R flip flop then the output will be __________",
+        "question": "When both set and reset are enabled in S-R flip-flop then the output will be __________",
         "answers": {
           "a": "Set",
           "b": "Reset",
@@ -46,7 +46,7 @@
         "difficulty": "beginner"
       },
       {
-        "question": "When both set and reset are disabled in S-R flip flop then the output will be __________",
+        "question": "When both set and reset are disabled in S-R flip-flop then the output will be __________",
         "answers": {
           "a": "Set",
           "b": "Reset",
