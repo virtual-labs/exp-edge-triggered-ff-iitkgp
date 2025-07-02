@@ -1,0 +1,60 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": " _________ are the applications of flip-flop",
+        "answers": {
+          "a": "Registers",
+          "b": "Counters",
+          "c": "Storage devices",
+          "d": "All of the above"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The flip-flops work with ________",
+        "answers": {
+          "a": "Binary inputs",
+          "b": "Clock signal",
+          "c": "Both a and b",
+          "d": "None of the above"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "How many types of triggers are there?",
+        "answers": {
+          "a": "One type",
+          "b": "Two types",
+          "c": "Three types",
+          "d": "Four types"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The output of the sequential circuit depends upon _________",
+        "answers": {
+          "a": "Present input",
+          "b": "Past input",
+          "c": "Present input and present state",
+          "d": "None of the above"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "What is the standard form of S-R flip-flop?",
+        "answers": {
+          "a": "Set Reset",
+          "b": "Simple-Reset",
+          "c": "Single-Reset",
+          "d": "None of the above"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
+    ]
+  }
