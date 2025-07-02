@@ -2,7 +2,7 @@
     "version": 2.0,
     "questions": [
       {
-        "question": " _________ are the applications of flip flop",
+        "question": " _________ are the applications of flip-flop",
         "answers": {
           "a": "Registers",
           "b": "Counters",
@@ -13,7 +13,7 @@
         "difficulty": "beginner"
       },
       {
-        "question": "The flip flops works with ________",
+        "question": "The flip-flops work with ________",
         "answers": {
           "a": "Binary inputs",
           "b": "Clock signal",
@@ -46,7 +46,7 @@
         "difficulty": "beginner"
       },
       {
-        "question": "What is the standard form of S-R flip flop?",
+        "question": "What is the standard form of S-R flip-flop?",
         "answers": {
           "a": "Set Reset",
           "b": "Simple-Reset",
