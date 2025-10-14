@@ -46,7 +46,7 @@
         "difficulty": "beginner"
       },
       {
-        "question": "What is the standard form of S-R flip-flop?",
+        "question": "What is the standard form of a S-R flip-flop?",
         "answers": {
           "a": "Set Reset",
           "b": "Simple-Reset",
